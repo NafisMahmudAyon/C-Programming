@@ -20,5 +20,4 @@ main()
 
     per = (sum * 100) / total;
     printf("\nPercentage : %f", per);
-
 }

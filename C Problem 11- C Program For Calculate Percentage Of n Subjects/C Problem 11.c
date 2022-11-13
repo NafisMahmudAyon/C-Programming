@@ -27,5 +27,4 @@ main()
     
     Percentage = ( sum * 100 ) / tmp;
     printf("\nPercentage Of Student : %d\n", Percentage);
-
 }
